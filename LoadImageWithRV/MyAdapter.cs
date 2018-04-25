@@ -10,6 +10,7 @@ using Android.Runtime;
 using Android.Support.V7.Widget;
 using Android.Views;
 using Android.Widget;
+using Com.Bumptech.Glide;
 using FFImageLoading;
 using FFImageLoading.Views;
 
@@ -28,7 +29,8 @@ namespace LoadImageWithRV
         public override void OnBindViewHolder(RecyclerView.ViewHolder holder, int position)
         {
             MyViewHolder myViewHolder = holder as MyViewHolder;
-            ImageService.Instance.LoadUrl(mList[position]).Into(myViewHolder.miv);
+            // ImageService.Instance.LoadUrl(mList[position]).Into(myViewHolder.miv);
+            Glide.With(mContext).Load(mList[position]).Into(myViewHolder.miv);
         }
 
         public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)
@@ -39,10 +41,12 @@ namespace LoadImageWithRV
     }
     public  class MyViewHolder : RecyclerView.ViewHolder
     {
-      public  ImageViewAsync miv;
+        // public  ImageViewAsync miv;
+        public ImageView miv;
         public MyViewHolder(View itemView) : base(itemView)
         {
-            miv = itemView.FindViewById<ImageViewAsync>(Resource.Id.item_iv);
+            //miv = itemView.FindViewById<ImageViewAsync>(Resource.Id.item_iv);
+            miv = itemView.FindViewById<ImageView>(Resource.Id.item_iv);
         }
     }
 

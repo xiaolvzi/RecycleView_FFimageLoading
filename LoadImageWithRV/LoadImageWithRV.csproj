@@ -56,6 +56,9 @@
     <Reference Include="FFImageLoading.Platform, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Xamarin.FFImageLoading.2.3.6\lib\MonoAndroid10\FFImageLoading.Platform.dll</HintPath>
     </Reference>
+    <Reference Include="Glide, Version=4.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Glide.Xamarin.4.1.1\lib\MonoAndroid10\Glide.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />

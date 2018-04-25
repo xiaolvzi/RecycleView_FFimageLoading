@@ -109,6 +109,7 @@ class MonoPackageManager_Resources {
 		"LoadImageWithRV.dll",
 		"FFImageLoading.dll",
 		"FFImageLoading.Platform.dll",
+		"Glide.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",

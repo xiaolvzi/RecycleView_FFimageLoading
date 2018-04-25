@@ -38,6 +38,22 @@ FFImageLoading.Cache.LRUCache, FFImageLoading.Platform;md59cd5ae6924ea1865908f6a
 FFImageLoading.Cache.LRUCache, FFImageLoading.Platform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59cd5ae6924ea1865908f6a4eed48fb35.LRUCache
 FFImageLoading.Cache.LRUCache;md59cd5ae6924ea1865908f6a4eed48fb35.LRUCache
 ffimageloading.cache.LRUCache;md59cd5ae6924ea1865908f6a4eed48fb35.LRUCache
+Com.Bumptech.Glide.Manager.IConnectivityMonitorConnectivityListenerImplementor, Glide;mono.com.bumptech.glide.manager.ConnectivityMonitor_ConnectivityListenerImplementor
+Com.Bumptech.Glide.Manager.IConnectivityMonitorConnectivityListenerImplementor, Glide, Version=4.1.1.0, Culture=neutral, PublicKeyToken=null;mono.com.bumptech.glide.manager.ConnectivityMonitor_ConnectivityListenerImplementor
+Com.Bumptech.Glide.Manager.IConnectivityMonitorConnectivityListenerImplementor;mono.com.bumptech.glide.manager.ConnectivityMonitor_ConnectivityListenerImplementor
+mono.com.bumptech.glide.manager.ConnectivityMonitor_ConnectivityListenerImplementor;mono.com.bumptech.glide.manager.ConnectivityMonitor_ConnectivityListenerImplementor
+Com.Bumptech.Glide.Manager.ILifecycleListenerImplementor, Glide;mono.com.bumptech.glide.manager.LifecycleListenerImplementor
+Com.Bumptech.Glide.Manager.ILifecycleListenerImplementor, Glide, Version=4.1.1.0, Culture=neutral, PublicKeyToken=null;mono.com.bumptech.glide.manager.LifecycleListenerImplementor
+Com.Bumptech.Glide.Manager.ILifecycleListenerImplementor;mono.com.bumptech.glide.manager.LifecycleListenerImplementor
+mono.com.bumptech.glide.manager.LifecycleListenerImplementor;mono.com.bumptech.glide.manager.LifecycleListenerImplementor
+Com.Bumptech.Glide.Load.Engine.Cache.IMemoryCacheResourceRemovedListenerImplementor, Glide;mono.com.bumptech.glide.load.engine.cache.MemoryCache_ResourceRemovedListenerImplementor
+Com.Bumptech.Glide.Load.Engine.Cache.IMemoryCacheResourceRemovedListenerImplementor, Glide, Version=4.1.1.0, Culture=neutral, PublicKeyToken=null;mono.com.bumptech.glide.load.engine.cache.MemoryCache_ResourceRemovedListenerImplementor
+Com.Bumptech.Glide.Load.Engine.Cache.IMemoryCacheResourceRemovedListenerImplementor;mono.com.bumptech.glide.load.engine.cache.MemoryCache_ResourceRemovedListenerImplementor
+mono.com.bumptech.glide.load.engine.cache.MemoryCache_ResourceRemovedListenerImplementor;mono.com.bumptech.glide.load.engine.cache.MemoryCache_ResourceRemovedListenerImplementor
+Com.Bumptech.Glide.Request.IRequestListenerImplementor, Glide;mono.com.bumptech.glide.request.RequestListenerImplementor
+Com.Bumptech.Glide.Request.IRequestListenerImplementor, Glide, Version=4.1.1.0, Culture=neutral, PublicKeyToken=null;mono.com.bumptech.glide.request.RequestListenerImplementor
+Com.Bumptech.Glide.Request.IRequestListenerImplementor;mono.com.bumptech.glide.request.RequestListenerImplementor
+mono.com.bumptech.glide.request.RequestListenerImplementor;mono.com.bumptech.glide.request.RequestListenerImplementor
 Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider+ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor

@@ -1,6 +1,7 @@
 C:\VS_WorkSpace\LoadImageWithRV\LoadImageWithRV\obj\Debug\android\assets\LoadImageWithRV.dll
 C:\VS_WorkSpace\LoadImageWithRV\LoadImageWithRV\obj\Debug\android\assets\FFImageLoading.dll
 C:\VS_WorkSpace\LoadImageWithRV\LoadImageWithRV\obj\Debug\android\assets\FFImageLoading.Platform.dll
+C:\VS_WorkSpace\LoadImageWithRV\LoadImageWithRV\obj\Debug\android\assets\Glide.dll
 C:\VS_WorkSpace\LoadImageWithRV\LoadImageWithRV\obj\Debug\android\assets\Java.Interop.dll
 C:\VS_WorkSpace\LoadImageWithRV\LoadImageWithRV\obj\Debug\android\assets\Mono.Android.dll
 C:\VS_WorkSpace\LoadImageWithRV\LoadImageWithRV\obj\Debug\android\assets\mscorlib.dll
